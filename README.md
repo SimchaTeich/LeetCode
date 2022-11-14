@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode exercises
+LeetCode exercises: https://leetcode.com/
