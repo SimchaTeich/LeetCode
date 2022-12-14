@@ -2,4 +2,4 @@ A phrase is a palindrome if, after converting all uppercase letters into lowerca
 
 Given a string s, return true if it is a palindrome, or false otherwise.
 
-https://leetcode.com/problems/valid-palindrome/submissions/859402672/
+https://leetcode.com/problems/valid-palindrome/submissions/859633947/
